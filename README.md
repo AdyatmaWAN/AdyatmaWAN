@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I'm Adyatma from Universitas Indonesia<br><br>- 🔭 I’m studying as Computer Science student<br>- 📚 I'm currently learning Embedded System, Robotics, and Machine Learning stuffs<br>- ⚡ In my free time I trying out my Arduino Clone</p>
+<p align="center">I'm Adyatma from Universitas Indonesia<br><br>- 🔭 I’m studying as Computer Science student<br>- 📚 I'm currently learning Embedded System, Robotics, and Machine Learning stuffs<br></p>
 
 ###
 
